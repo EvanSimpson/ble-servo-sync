@@ -1,5 +1,5 @@
 {
-  "name": "servo-sync",
+  "name": "ble-servo-sync",
   "version": "0.1.0",
   "description": "Tessel project to send data from one Tessel to another using the BLE module.",
   "main": "index.js",
